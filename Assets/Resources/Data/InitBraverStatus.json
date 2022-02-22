@@ -1,0 +1,23 @@
+{
+  "Floor": 0,
+  "Health": 1000,
+  "Attack": 10,
+  "Defence": 10,
+  "Shield": 0,
+  "Experience": 0,
+  "Gold": 0,
+  "Items": [
+    {
+      "itemID": 1,
+      "num": 1
+    },
+    {
+      "itemID": 2,
+      "num": 1
+    },
+    {
+      "itemID": 3,
+      "num": 1
+    }
+  ]
+}

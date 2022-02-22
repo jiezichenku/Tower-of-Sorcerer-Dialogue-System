@@ -1,0 +1,12 @@
+{
+    "Attack": 23,
+    "Defence": 40,
+    "EnemyID": 42,
+    "EnemyName": "稀有金属史莱姆",
+    "Experience": 0,
+    "Gold": 25,
+    "Health": 650,
+    "Skill": [
+        "坚固:a:7"
+    ]
+}

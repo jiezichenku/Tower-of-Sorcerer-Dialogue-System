@@ -1,0 +1,13 @@
+{
+    "Attack": 600,
+    "Defence": 450,
+    "EnemyID": 100,
+    "EnemyName": "魔神武者",
+    "Experience": 25,
+    "Gold": 30,
+    "Health": 2500,
+    "Skill": [
+        "反击:200:100:100",
+        "净化:a:4"
+    ]
+}

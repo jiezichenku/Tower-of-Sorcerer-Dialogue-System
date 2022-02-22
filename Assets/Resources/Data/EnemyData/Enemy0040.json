@@ -1,0 +1,12 @@
+{
+    "Attack": 400,
+    "Defence": 180,
+    "EnemyID": 77,
+    "EnemyName": "魔性人之尸",
+    "Experience": 5,
+    "Gold": 10,
+    "Health": 800,
+    "Skill": [
+        "中毒:a:3"
+    ]
+}

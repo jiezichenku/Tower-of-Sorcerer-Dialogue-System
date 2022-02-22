@@ -1,0 +1,13 @@
+{
+    "Attack": 550,
+    "Defence": 300,
+    "EnemyID": 111,
+    "EnemyName": "起源施咒者",
+    "Experience": 25,
+    "Gold": 30,
+    "Health": 1500,
+    "Skill": [
+        "魔攻:a:12",
+        "爆攻:120:200:100"
+    ]
+}

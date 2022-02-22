@@ -1,0 +1,21 @@
+{
+  "Type":  "ItemBuy",
+  "Money": "Gold",
+  "Goods": [
+    {
+      "Good": "1",
+      "Value": 1,
+      "Price": 10
+    },
+    {
+      "Good": "2",
+      "Value": 1,
+      "Price": 50
+    },
+    {
+      "Good": "3",
+      "Value": 1,
+      "Price": 100
+    }
+  ]
+}

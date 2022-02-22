@@ -1,0 +1,10 @@
+{
+    "Attack": 100,
+    "Defence": 100,
+    "EnemyID": 93,
+    "EnemyName": "------------",
+    "Experience": 0,
+    "Gold": 0,
+    "Health": 500,
+    "Skill": []
+}

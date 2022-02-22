@@ -1,0 +1,21 @@
+{
+  "Type": "Attribute",
+  "Money": "Gold",
+  "Goods": [
+    {
+      "Good": "Health",
+      "Value": 800,
+      "Price": 25
+    },
+    {
+      "Good": "Attack",
+      "Value": 4,
+      "Price": 25
+    },
+    {
+      "Good": "Defence",
+      "Value": 4,
+      "Price": 25
+    }
+  ]
+}

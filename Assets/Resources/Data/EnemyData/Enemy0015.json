@@ -1,0 +1,13 @@
+{
+    "Attack": 70,
+    "Defence": 25,
+    "EnemyID": 52,
+    "EnemyName": "怨灵集结体",
+    "Experience": 15,
+    "Gold": 15,
+    "Health": 200,
+    "Skill": [
+        "魔攻:a:12",
+        "领域:255:50:200"
+    ]
+}

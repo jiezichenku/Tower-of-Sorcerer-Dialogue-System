@@ -1,0 +1,13 @@
+{
+    "Attack": 150,
+    "Defence": 75,
+    "EnemyID": 65,
+    "EnemyName": "魔力集合体",
+    "Experience": 50,
+    "Gold": 0,
+    "Health": 1000,
+    "Skill": [
+        "魔攻:a:12",
+        "仇恨:150:200:150"
+    ]
+}

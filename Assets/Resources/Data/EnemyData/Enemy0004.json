@@ -1,0 +1,10 @@
+{
+    "Attack": 55,
+    "Defence": 35,
+    "EnemyID": 41,
+    "EnemyName": "史莱姆集合体",
+    "Experience": 3,
+    "Gold": 5,
+    "Health": 250,
+    "Skill": []
+}

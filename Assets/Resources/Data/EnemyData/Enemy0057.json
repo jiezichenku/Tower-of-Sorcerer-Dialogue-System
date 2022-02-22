@@ -1,0 +1,13 @@
+{
+    "Attack": 350,
+    "Defence": 300,
+    "EnemyID": 94,
+    "EnemyName": "Ä§µ¼ÎäÕß",
+    "Experience": 20,
+    "Gold": 25,
+    "Health": 950,
+    "Skill": [
+        "Ä§¹¥:a:12",
+        "¾»»¯:a:4"
+    ]
+}
